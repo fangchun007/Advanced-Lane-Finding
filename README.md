@@ -17,7 +17,7 @@ To this aim, I split the whole process into the following several steps:
 
 ## Algorithms and Pipeline
 
-I chose to explain the thought of designing an algorithm just before, or in, or after the corresponding code. Even though, this method lead to a longer file, it should make the process of understanding much more easier. Please click [here]() for my code.
+I chose to explain the thought of designing an algorithm just before, or in, or after the corresponding code. Even though, this method lead to a longer file, it should make the process of understanding much more easier. Please click [here](https://github.com/fangchun007/Advanced-Lane-Finding/blob/master/LaneLineProject.ipynb) for my code and detailed explanation.
 
 I chose to create a test video other than testing only on several images to verify an algorithm or pipeline. If you wish to visit those videos, please click [here](https://github.com/fangchun007/Advanced-Lane-Finding/tree/master/output_images). 
 
