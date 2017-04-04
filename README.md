@@ -19,11 +19,11 @@ To this aim, I split the whole process into the following several steps:
 
 I chose to explain the thought of designing an algorithm just before, or in, or after the corresponding code. Even though, this method lead to a longer file, it should make the process of understanding much more easier. Please click [here]() for my code.
 
-I chose to create a test video other than testing only on several images to verify an algorithm or pipeline. If you wish to visit those videos, please go to either [here]() or [here](). 
+I chose to create a test video other than testing only on several images to verify an algorithm or pipeline. If you wish to visit those videos, please click [here](https://github.com/fangchun007/Advanced-Lane-Finding/tree/master/output_images). 
 
 ## Results
 
-All the result were saved in the folder []().
+All the result were saved in the folder [output_images](https://github.com/fangchun007/Advanced-Lane-Finding/tree/master/output_images). Unfortunately, there is still one mp4 file, named test_combined.mp4, which cannot be uploaded to github because of its large size.
 
 ## Discussion
 
