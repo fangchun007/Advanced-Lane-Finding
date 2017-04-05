@@ -47,7 +47,7 @@ Example:
 Perspective Transform of an image can helps us to obtain the "birds-eye view" of road condition. To compute the perspective transform, we first undistort the image 'test_images/straight_lines2.jpg'. The corresponding result and computer vision functions cv2.getPerspectiveTransform() ares used to calculate the perspective transform and its inverse.
 
 Example:
-![alt tag](https://github.com/fangchun007/Advanced-Lane-Finding/blob/master/output_images/img_for_pt.jpg)
+![alt tag](https://github.com/fangchun007/Advanced-Lane-Finding/blob/master/output_images/img_for_pt1.jpg)
 
 4. Describe how (and identify where in your code) you identified lane-line pixels and fit their positions with a polynomial?
 
